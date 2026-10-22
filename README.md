@@ -52,7 +52,7 @@ Protocol formats and behaviour were derived from, and checked against:
 - [PretendoNetwork/monster-hunter-4-ultimate](https://github.com/PretendoNetwork/monster-hunter-4-ultimate), AGPL-3.0:
   reference for the game-server design only; no code copied.
 
-This repository has no license file yet.
+None of these forces a license on this project (the GPL and AGPL projects were references only, no code copied), so it is released under the [MIT License](LICENSE). Any part that is derived from nextendo-nex stays subject to its PolyForm Shield terms above.
 
 ## Disclaimer
 
